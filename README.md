@@ -28,4 +28,3 @@ Future Development
 
 If you have ideas or find any issues – let me know!
 
-🔗 Download & Repository Link
